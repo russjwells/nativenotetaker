@@ -1,0 +1,3 @@
+rootProject.name = 'nativenotetaker'
+
+include ':app'
